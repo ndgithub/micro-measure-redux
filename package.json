@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "antd": "^3.25.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "file-saver": "^2.0.2",
     "firebase": "^6.6.2",
     "firebaseui": "^4.3.0",
